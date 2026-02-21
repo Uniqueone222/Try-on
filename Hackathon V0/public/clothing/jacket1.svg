@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M25 20 L35 15 C45 10 55 10 65 15 L75 20 L95 45 L85 65 L70 50 L70 90 L30 90 L30 50 L15 65 L5 45 Z" fill="#b45309" stroke="#78350f" stroke-width="2"/>
+  <!-- Zipper -->
+  <line x1="50" y1="15" x2="50" y2="90" stroke="#fbbf24" stroke-width="2"/>
+  <!-- Pocket zips -->
+  <line x1="38" y1="60" x2="40" y2="80" stroke="#fbbf24" stroke-width="1.5"/>
+  <line x1="62" y1="60" x2="60" y2="80" stroke="#fbbf24" stroke-width="1.5"/>
+</svg>

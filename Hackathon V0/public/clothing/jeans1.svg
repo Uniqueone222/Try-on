@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150">
+  <!-- Waistband -->
+  <path d="M 25 10 Q 50 15 75 10 L 78 20 Q 50 25 22 20 Z" fill="#1e3a8a"/>
+  <!-- Left Leg -->
+  <path d="M 22 20 L 50 25 L 50 70 L 40 140 L 15 140 L 22 20 Z" fill="#2563eb" stroke="#1d4ed8" stroke-width="1"/>
+  <!-- Right Leg -->
+  <path d="M 50 25 L 78 20 L 85 140 L 60 140 L 50 70 L 50 25 Z" fill="#2563eb" stroke="#1d4ed8" stroke-width="1"/>
+  <!-- Pockets and seams -->
+  <path d="M 22 20 Q 35 35 25 45 Z" fill="#1e40af"/>
+  <path d="M 78 20 Q 65 35 75 45 Z" fill="#1e40af"/>
+  <line x1="50" y1="25" x2="50" y2="70" stroke="#1e3a8a" stroke-width="1.5"/>
+</svg>

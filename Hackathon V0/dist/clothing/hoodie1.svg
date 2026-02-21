@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M30 15 L40 5 C45 0 55 0 60 5 L70 15 L95 40 Q100 45 95 50 L85 60 L70 50 L70 95 L30 95 L30 50 L15 60 L5 50 Q0 45 5 40 Z" fill="#3b82f6" stroke="#2563eb" stroke-width="2"/>
+  <!-- Hood part -->
+  <path d="M40 5 C45 -5 55 -5 60 5 C60 20 40 20 40 5Z" fill="#2563eb"/>
+  <!-- Pocket -->
+  <path d="M40 70 L60 70 L65 90 L35 90 Z" fill="#2563eb"/>
+</svg>
